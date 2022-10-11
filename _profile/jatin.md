@@ -28,4 +28,22 @@ youtube: https://www.youtube.com/channel/UCs4O9Hv1nap2GPsQY2juaxQ
 # Upload the image to imgur and
 # paste the direct link to image
 picture: https://i.imgur.com/O6S2plH.jpeg
+
+# Required
+layout: page
+title: profile
+
+# Required
+name: Aditya Rajauria
+tag: Beginner Coder
+
+# Optional, atleast 2 recommended
+
+# your email address here
+email: adityargamer@gmail.com
+
+
+#your github profile her
+github:  https://github.com/AdityaR6
 ---
+
