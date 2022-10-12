@@ -14,7 +14,7 @@ tag: Pro Coder
 # Optional, atleast 2 recommended
 
 # your email address here
-email: 
+email: bandwal9@gmail.com
 # your facebook profile here
 facebook: 
 #your instagram profile here
@@ -33,5 +33,5 @@ stackoverflow:
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: 
+picture: https://i.imgur.com/Rezhggy.jpg
 ---
