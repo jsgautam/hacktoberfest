@@ -8,7 +8,7 @@ title: profile
 # Required
 name: Vinay Sehwag
 # Insert tag like pro coder,tech enthusiast,web devloper
-tag: Pro Coder
+tag: Noob
 
 # Optional, atleast 2 recommended
 
