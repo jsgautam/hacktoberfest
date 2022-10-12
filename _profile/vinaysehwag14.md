@@ -18,16 +18,10 @@ email: vinaysehwag14@gmail.com
 facebook: https://www.facebook.com/vinaysehwag14/
 #your instagram profile here
 instagram: https://www.instagram.com/vinaysehwag14/
-#your linkedin profile here
-linkedin: 
 #your github profile her
-github:  
-#your medium profile here
-medium: 
-#your youtube profile here
-youtube: 
-#your stackoverflow profile here
-stackoverflow: 
+github:   https://github.com/vinaysehwag14/
+
+
 
 # Optional
 # Upload the image to imgur and
