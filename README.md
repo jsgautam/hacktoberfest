@@ -54,4 +54,4 @@ You need to have at least 5 pull requests to clear hacktoberfest. Here is a quic
 
 ## Get Help
 
-You can get help from the DotSlash Community WhatsApp group or from me as [@jatinsingh287](https://t.me/jatinsingh287) on Telegram.
+You can get help from me as [@jatinsingh287](https://t.me/jatinsingh287) on Telegram.
