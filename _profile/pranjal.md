@@ -18,7 +18,7 @@ email: bandwal9@gmail.com
 # your facebook profile here
 facebook: 
 #your instagram profile here
-instagram: 
+instagram: https://www.instagram.com/pranjalbandwal/
 #your linkedin profile here
 linkedin: 
 #your github profile her
