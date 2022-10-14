@@ -22,7 +22,7 @@ instagram:
 #your linkedin profile here
 linkedin: 
 #your github profile her
-github:  
+github:  https://github.com/PranjalBandwal
 #your medium profile here
 medium: 
 #your youtube profile here
