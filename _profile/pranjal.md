@@ -9,7 +9,7 @@ title: profile
 # Required
 name: Pranjal Bandwal
 # Insert tag like pro coder,tech enthusiast,web devloper
-tag: Pro Coder
+tag: Web Developer
 
 # Optional, atleast 2 recommended
 
@@ -22,11 +22,11 @@ instagram: https://www.instagram.com/pranjalbandwal/
 #your linkedin profile here
 linkedin: https://www.linkedin.com/in/pranjal-bandwal-656483185
 #your github profile her
-github:  https://github.com/PranjalBandwal
+github:  https://github.com/PranjalBandwalg
 #your medium profile here
 medium: 
 #your youtube profile here
-youtube: 
+youtube: https://www.youtube.com/
 #your stackoverflow profile here
 stackoverflow: 
 
