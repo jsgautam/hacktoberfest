@@ -14,7 +14,7 @@ tag: Pro Coder
 # Optional, atleast 2 recommended
 
 # your email address here
-email: 
+email: vinaysehwag14@gmail.com
 # your facebook profile here
 facebook: 
 #your instagram profile here
