@@ -22,7 +22,7 @@ instagram:
 #your linkedin profile here
 linkedin: 
 #your github profile her
-github:  
+github: https://github.com/VinaySehwag14 
 #your medium profile here
 medium: 
 #your youtube profile here
