@@ -7,14 +7,14 @@ layout: page
 title: profile
 
 # Required
-name: Test Name
+name: vinayseh
 # Insert tag like pro coder,tech enthusiast,web devloper
 tag: Pro Coder
 
 # Optional, atleast 2 recommended
 
 # your email address here
-email: 
+email: vinaysehwag14@gmail.com
 # your facebook profile here
 facebook: 
 #your instagram profile here
