@@ -7,7 +7,7 @@ layout: page
 title: profile
 
 # Required
-name: vinayseh
+name: Vinay Sehwag
 # Insert tag like pro coder,tech enthusiast,web devloper
 tag: Pro Coder
 
@@ -33,5 +33,5 @@ stackoverflow:
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: 
+picture: https://avatars.githubusercontent.com/u/55314386?v=4
 ---
