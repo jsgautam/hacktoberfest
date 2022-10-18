@@ -7,7 +7,7 @@ layout: page
 title: profile
 
 # Required
-name: Test Name
+name: vinayseh
 # Insert tag like pro coder,tech enthusiast,web devloper
 tag: Pro Coder
 
