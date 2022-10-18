@@ -16,7 +16,7 @@ tag: Developer
 # your email address here
 email: vinaysehwag14@gmail.com
 # your facebook profile here
-facebook: 
+facebook: https://www.facebook.com/vinaysehwag14/
 #your instagram profile here
 instagram: 
 #your linkedin profile here
