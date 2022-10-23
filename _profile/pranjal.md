@@ -22,7 +22,7 @@ instagram: https://www.instagram.com/pranjalbandwal/
 #your linkedin profile here
 linkedin: https://www.linkedin.com/in/pranjal-bandwal-656483185
 #your github profile her
-github:  https://github.com/PranjalBandwalg
+github:  https://github.com/PranjalBandwal
 #your medium profile here
 medium: 
 #your youtube profile here
