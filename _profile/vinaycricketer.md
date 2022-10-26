@@ -14,7 +14,7 @@ tag: Cricketer with coding skills
 # Optional, atleast 2 recommended
 
 # your email address here
-email: 
+email: vinaysehwagcricketer@gmail.com
 # your facebook profile here
 facebook: 
 #your instagram profile here
