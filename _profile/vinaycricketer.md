@@ -33,5 +33,5 @@ stackoverflow:
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: 
+picture: https://lh3.googleusercontent.com/ogw/AOh-ky0iq9ufRAJYeU8x89tgUevUWW6Zde3QA6Evf5pksQ=s32-c-mo
 ---
