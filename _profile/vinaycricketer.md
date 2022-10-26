@@ -18,7 +18,7 @@ email: vinaysehwagcricketer@gmail.com
 # your facebook profile here
 facebook: 
 #your instagram profile here
-instagram: 
+instagram: https://www.instagram.com/vinaysehwag14
 #your linkedin profile here
 linkedin: 
 #your github profile her
