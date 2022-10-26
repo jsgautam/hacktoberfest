@@ -20,7 +20,7 @@ facebook:
 #your instagram profile here
 instagram: https://www.instagram.com/vinaysehwag14
 #your linkedin profile here
-linkedin: 
+linkedin: https://www.linkedin.com/login
 #your medium profile here
 medium: 
 #your github profile her
