@@ -25,10 +25,11 @@ instagram: https://www.instagram.com/vinaysehwag14
 medium: 
 #your youtube profile here
 youtube: 
-#your stackoverflow profile here
-stackoverflow: 
 #your github profile her
 github: https://github.com/vinay0814
+#your stackoverflow profile here
+stackoverflow: 
+
 
 # Optional
 # Upload the image to imgur and
