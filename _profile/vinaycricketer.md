@@ -22,7 +22,7 @@ instagram: https://www.instagram.com/vinaysehwag14
 #your linkedin profile here
 linkedin: 
 #your github profile her
-github:  
+github: https://github.com/vinay0814
 #your medium profile here
 medium: 
 #your youtube profile here
