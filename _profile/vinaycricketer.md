@@ -21,14 +21,14 @@ facebook:
 linkedin:
 #your instagram profile here
 instagram: https://www.instagram.com/vinaysehwag14 
-#your github profile her
-github: https://github.com/vinay0814
 #your medium profile here
 medium: 
 #your youtube profile here
 youtube: 
 #your stackoverflow profile here
 stackoverflow: 
+#your github profile her
+github: https://github.com/vinay0814
 
 # Optional
 # Upload the image to imgur and
