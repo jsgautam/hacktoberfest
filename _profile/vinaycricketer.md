@@ -9,7 +9,7 @@ title: profile
 # Required
 name: Vinay Cricketer
 # Insert tag like pro coder,tech enthusiast,web devloper
-tag: Pro Coder
+tag: Cricketer with coding skills
 
 # Optional, atleast 2 recommended
 
