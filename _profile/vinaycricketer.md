@@ -17,18 +17,18 @@ tag: Cricketer with coding skills
 email: vinaysehwagcricketer@gmail.com
 # your facebook profile here
 facebook: 
-#your instagram profile here
-instagram: https://www.instagram.com/vinaysehwag14
 #your linkedin profile here
-linkedin: 
-#your github profile her
-github: https://github.com/vinay0814
+linkedin:
+#your instagram profile here
+instagram: https://www.instagram.com/vinaysehwag14 
 #your medium profile here
 medium: 
 #your youtube profile here
 youtube: 
 #your stackoverflow profile here
 stackoverflow: 
+#your github profile her
+github: https://github.com/vinay0814
 
 # Optional
 # Upload the image to imgur and
