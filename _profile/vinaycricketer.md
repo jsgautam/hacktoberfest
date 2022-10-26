@@ -26,7 +26,7 @@ medium:
 #your github profile her
 github: https://github.com/vinay0814
 #your youtube profile here
-youtube: https://www.youtube.com/watch?v=AAVtTRw44Lw
+youtube: https://www.youtube.com/watch?v=gwWKnnCMQ5c
 #your stackoverflow profile here
 stackoverflow: 
 
